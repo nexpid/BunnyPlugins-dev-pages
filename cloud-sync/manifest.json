@@ -1,1 +1,1 @@
-{"name":"Cloud Sync","description":"Syncs your plugins and themes to the cloud","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"MobilePhoneShareIcon"},"hash":"19f7ba8a2e9754eccf7f50c62400cccfd528324546354c03e6893c96bf86c88e"}
+{"name":"Cloud Sync","description":"Syncs your plugins, themes and fonts to the cloud","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"MobilePhoneShareIcon"},"hash":"19f7ba8a2e9754eccf7f50c62400cccfd528324546354c03e6893c96bf86c88e"}
