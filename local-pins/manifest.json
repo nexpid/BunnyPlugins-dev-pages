@@ -1,1 +1,1 @@
-{"name":"Local Pins","description":"Adds a button to locally pin a message","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"ic_pins"},"hash":"fafe65bbfecf5acfc80c8bd0962adb937a06f5a31f263ce23584f2b6761f587a"}
+{"name":"Local Pins","description":"This plugin is outdated! Zoinks! Install Local Pins from \"https://bunny.nexpid.xyz/local-pins\" instead","authors":[{"name":"dev.bunny.nexpid.xyz"}],"main":"index.js","vendetta":{"icon":"ic_feedback"},"hash":"df82ddf5c24e178a8d98d051e4465fb62d98d63aa969661c6d89b962fead7e50"}
