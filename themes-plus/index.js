@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Themes+ from \"https://bunny.nexpid.xyz/themes-plus\" instead"
+throw "Themes+ on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/themes-plus\" instead."

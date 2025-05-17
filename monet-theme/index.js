@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Monet Theme from \"https://bunny.nexpid.xyz/monet-theme\" instead"
+throw "Monet Theme on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/monet-theme\" instead."

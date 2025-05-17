@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install CustomRPC from \"https://bunny.nexpid.xyz/customrpc\" instead"
+throw "CustomRPC on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/customrpc\" instead."

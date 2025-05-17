@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Char Counter from \"https://bunny.nexpid.xyz/char-counter\" instead"
+throw "Char Counter on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/char-counter\" instead."

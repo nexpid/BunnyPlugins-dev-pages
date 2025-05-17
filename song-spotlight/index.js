@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Song Spotlight from \"https://bunny.nexpid.xyz/song-spotlight\" instead"
+throw "Song Spotlight on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/song-spotlight\" instead."

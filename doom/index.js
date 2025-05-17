@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install DOOM from \"https://bunny.nexpid.xyz/doom\" instead"
+throw "DOOM on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/doom\" instead."

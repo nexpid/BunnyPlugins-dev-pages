@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Plugin Embeds from \"https://bunny.nexpid.xyz/plugin-embeds\" instead"
+throw "Plugin Embeds on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/plugin-embeds\" instead."

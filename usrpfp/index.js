@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install UserPFP from \"https://bunny.nexpid.xyz/userpfp\" instead"
+throw "UserPFP on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/userpfp\" instead."

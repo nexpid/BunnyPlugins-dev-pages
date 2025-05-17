@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Message Preview from \"https://bunny.nexpid.xyz/message-preview\" instead"
+throw "Message Preview on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/message-preview\" instead."

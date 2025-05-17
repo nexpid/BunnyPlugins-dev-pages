@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Kazum Kiryu Facecam from \"https://bunny.nexpid.xyz/kiryu-facecam\" instead"
+throw "Kazum Kiryu Facecam on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/kiryu-facecam\" instead."

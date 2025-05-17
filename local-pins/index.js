@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Local Pins from \"https://bunny.nexpid.xyz/local-pins\" instead"
+throw "Local Pins on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/local-pins\" instead."

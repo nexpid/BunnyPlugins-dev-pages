@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Twemoji Everywhere from \"https://bunny.nexpid.xyz/twemoji-everywhere\" instead"
+throw "Twemoji Everywhere on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/twemoji-everywhere\" instead."

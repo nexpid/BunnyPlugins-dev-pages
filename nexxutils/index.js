@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install NexxUtils from \"https://bunny.nexpid.xyz/nexxutils\" instead"
+throw "NexxUtils on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/nexxutils\" instead."

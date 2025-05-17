@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Cloud Sync from \"https://bunny.nexpid.xyz/cloud-sync\" instead"
+throw "Cloud Sync on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/cloud-sync\" instead."

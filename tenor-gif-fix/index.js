@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Tenor Gif Fix from \"https://bunny.nexpid.xyz/tenor-gif-fix\" instead"
+throw "Tenor Gif Fix on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/tenor-gif-fix\" instead."

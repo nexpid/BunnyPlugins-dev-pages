@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install App Directory from \"https://bunny.nexpid.xyz/app-directory\" instead"
+throw "App Directory on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/app-directory\" instead."

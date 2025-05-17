@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Clean URLs from \"https://bunny.nexpid.xyz/clean-urls\" instead"
+throw "Clean URLs on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/clean-urls\" instead."

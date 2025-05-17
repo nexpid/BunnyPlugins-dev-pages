@@ -1,1 +1,1 @@
-throw "This plugin is outdated! Zoinks! Install Use System Emoji from \"https://bunny.nexpid.xyz/use-system-emoji\" instead"
+throw "Use System Emoji on dev.bunny.nexpid.xyz is outdated! Install it from \"https://revenge.nexpid.xyz/use-system-emoji\" instead."
